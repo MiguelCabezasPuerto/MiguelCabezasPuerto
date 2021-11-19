@@ -28,7 +28,7 @@ This is my technology stack badges, including different technologies, programmin
 
 - **NeuroHelp**: NeuroHelp is a mobile application that facilitates care center workers early childhood and family members of people with neurodevelopmental disorder the care of said people. In addition, it includes games that allow you to reinforce your learning. For all this, augmented and virtual reality is used.<a href="https://github.com/MiguelCabezasPuerto/NeuroHelp">Take a look</a>!
 <p align="center">
-  <img width="480" height="1020" src="https://github.com/MiguelCabezasPuerto/Neurohelp/blob/main/neurohelp.png">
+  <img width="480" height="820" src="https://github.com/MiguelCabezasPuerto/Neurohelp/blob/main/neurohelp.png">
 </p>
 
 ## 🚀 Some stats
