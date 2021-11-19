@@ -29,7 +29,7 @@ This is my technology stack badges, including different technologies, programmin
 ## 🚀 Some stats
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCabezasPuerto)]
 
-  ![MiguelCabezasPuerto's github stats](https://github-readme-stats.vercel.app/api?username=MiguelCabezasPuerto&count_private=true&include_all_commits=true&show_icons=true)
+  ![MiguelCabezasPuerto's github stats](https://github-readme-stats.vercel.app/api?username=MiguelCabezasPuerto)
 
 ## 📫 How to contact me
 
