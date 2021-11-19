@@ -27,7 +27,7 @@ This is my technology stack badges, including different technologies, programmin
 - **CoronaTorrent**: A DHT P2P file-sharing system consist on a web torrent client for the BitTorrent P2P network, which allows you to publish and download files through a torrent network.
 
 ## 🚀 Some stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCabezasPuerto&layout=compact&hide=Ada,Makefile,HTML,CSS&langs_count=20)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCabezasPuerto)]
 
   ![MiguelCabezasPuerto's github stats](https://github-readme-stats.vercel.app/api?username=MiguelCabezasPuerto&count_private=true&include_all_commits=true&show_icons=true)
 
