@@ -19,9 +19,9 @@ This is my technology stack badges, including different technologies, programmin
 
 - **Jobs and training in Castilla y León**: This is my final degree project, consisting on a an application for Android devices that aims to facilitate the user to search for relevant information related to job offers and training from the management of open data sources of public entities of Castilla y León. It allows the users to save, geolocate and follow up their favorite job and training offers in near real time.
 
-- **Twico**: This is is the final project for one of the subjects in the computer science master's degree consisting on a set of subsystems to aggregate information from newsitems, Twitter and OpenData sources, for the creation of a dashboard to serve a summary of the COVID pandemic, using different technologies. <a href="https://github.com/luisblazquezm/TwiCo">Take a look</a>!
+- **Twico**: This is is the final project for one of the subjects in the computer science master's degree consisting on a set of subsystems to aggregate information from newsitems, Twitter and OpenData sources, for the creation of a dashboard to serve a summary of the COVID pandemic, using different technologies. <a href="https://github.com/MiguelCabezasPuerto/TwiCo">Take a look</a>!
 <p align="center">
-  <img width="480" height="180" src="https://github.com/luisblazquezm/TwiCo/blob/master/soa-web-app/vue-web/public/img/architecture.png">
+  <img width="480" height="180" src="https://github.com/MiguelCabezasPuerto/TwiCo/blob/master/soa-web-app/vue-web/public/img/architecture.png">
 </p>
 
 - **CoronaTorrent**: A DHT P2P file-sharing system consist on a web torrent client for the BitTorrent P2P network, which allows you to publish and download files through a torrent network.
