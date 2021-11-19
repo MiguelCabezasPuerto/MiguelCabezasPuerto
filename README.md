@@ -32,9 +32,9 @@ This is my technology stack badges, including different technologies, programmin
 </p>
 
 ## 🚀 Some stats
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCabezasPuerto)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCabezasPuerto&layout=compact&hide=Ada,Makefile,HTML,CSS&langs_count=20))
 
-  ![MiguelCabezasPuerto's github stats](https://github-readme-stats.vercel.app/api?username=MiguelCabezasPuerto)
+  ![MiguelCabezasPuerto's github stats](https://github-readme-stats.vercel.app/api?username=MiguelCabezasPuerto&count_private=true&include_all_commits=true&show_icons=true))
 
 ## 📫 How to contact me
 
