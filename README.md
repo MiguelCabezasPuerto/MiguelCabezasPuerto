@@ -4,8 +4,8 @@ I am Miguel, a 24 year old computer science graduate from Salamanca, Spain. I do
 
 ## 👨‍🎓 About Me
 - 📚 Studying a computer science master's degree at the University of Salamanca.
-- 💼 Working as a support analyst in a telecommunication client's IT area at ViewNext.
-- 🌱 Currently deepening my knowledge in cloud services and mobile apps development.
+- 💼 Working as a junior software developer in a retail client's IT area at Corunet.
+- 🌱 Currently deepening my knowledge in spring backend services and mobile apps development.
 
 ## 🛠 My tech stack
 This is my technology stack badges, including different technologies, programming languages and resources I manage and use from day to day.
