@@ -3,8 +3,8 @@
 I am Miguel, a 24 year old computer science graduate from Salamanca, Spain. I do things related to Backend development and sysadmin tasks. My interests include sysadmin tasks and Backend development, specifically those related to mobile apps 📱 , Java and cloud services ☁.
 
 ## 👨‍🎓 About Me
-- 📚 Studying a computer science master's degree at the University of Salamanca.
-- 💼 Working as a junior software developer in a retail client's IT area at Corunet.
+- 📚 Having a computer science master's degree at the University of Salamanca.
+- 💼 Working as a senior software engineer in a retail client's IT area at Sngular.
 - 🌱 Currently deepening my knowledge in spring backend services and mobile apps development.
 
 ## 🛠 My tech stack
