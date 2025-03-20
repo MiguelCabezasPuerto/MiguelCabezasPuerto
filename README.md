@@ -1,6 +1,6 @@
 # Hey there! I'm Miguel
 
-I am Miguel, a 24 year old computer science graduate from Salamanca, Spain. I do things related to Backend development and sysadmin tasks. My interests include sysadmin tasks and Backend development, specifically those related to mobile apps 📱 , Java and cloud services ☁.
+I am Miguel, a 27 year old computer science graduate from Salamanca, Spain. I do things related to Backend development and sysadmin tasks. My interests include sysadmin tasks, Backend development, scalability, observability,, software architecture modeling, mobile apps 📱 , Java and cloud services ☁.
 
 ## 👨‍🎓 About Me
 - 📚 Having a computer science master's degree at the University of Salamanca.
